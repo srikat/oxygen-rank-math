@@ -4,6 +4,8 @@ This plugin enables [Rank Math](https://rankmath.com/) SEO plugin for WordPress 
 
 There are no settings for the plugin. Just install and activate to make Rank Math include Oxygen in its content analysis.
 
+[Blog Post](https://wpdevdesign.com/oxygen-rank-math-plugin/)
+
 ## Installation ##
 
 1. Click on the `Download ZIP` button at the right to download the plugin.
