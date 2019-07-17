@@ -3,7 +3,7 @@
 Plugin Name:	Oxygen Rank Math
 Plugin URI:		https://github.com/srikat/oxygen-rank-math
 Description:	Enables Rank Math to analyze content added via Oxygen editor.
-Version:		1.0.0
+Version:		1.0.1
 Author:			Sridhar Katakam
 Author URI:		https://wpdevdesign.com
 License:		GPL-2.0+

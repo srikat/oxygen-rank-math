@@ -14,5 +14,8 @@ There are no settings for the plugin. Just install and activate to make Rank Mat
 
 ## Changelog ##
 
+### 1.0.1 - July 17, 2019 ###
+* Included WordPress editor content in the analysis.
+
 ### 1.0.0 - July 13, 2019 ###
 * Initial Release
