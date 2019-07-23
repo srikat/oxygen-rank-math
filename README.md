@@ -1,3 +1,7 @@
+Update on July 23, 2019: The plugin is now available in the WP repo.
+
+https://wordpress.org/plugins/wpdevdesign-rankmath-integration-for-oxygen/
+
 # Oxygen Rank Math #
 
 This plugin enables [Rank Math](https://rankmath.com/) SEO plugin for WordPress to parse text inside the [Oxygen](oxygenbuilder.com) editor for Pages and Posts.
